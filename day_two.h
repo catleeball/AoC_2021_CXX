@@ -12,7 +12,7 @@ namespace day_two {
 
     enum Dir {Up = 'u', Down = 'd', Forward = 'f'};
 
-    uint PartOne();
+    int PartOne();
 }
 
 #endif //AOC_2021_CXX_DAY_TWO_H
