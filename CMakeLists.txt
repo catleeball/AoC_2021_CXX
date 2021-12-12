@@ -3,4 +3,4 @@ project(AoC_2021_CXX)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(AoC_2021_CXX main.cpp day_one.cpp day_one.h)
+add_executable(AoC_2021_CXX main.cpp day_one.cpp day_one.h day_two.cpp day_two.h)
